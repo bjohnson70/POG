@@ -1,0 +1,10 @@
+{
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "editor.formatOnSave": true,
+  "markdown.validate.enabled": true,
+  "editor.rulers": [100],
+  "files.exclude": {
+    "**/.git": true
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Git Status",
+      "type": "shell",
+      "command": "git status",
+      "problemMatcher": []
+    },
+    {
+      "label": "Verify Markdown Files",
+      "type": "shell",
+      "command": "find docs -type f -name '*.md' | sort",
+      "problemMatcher": []
+    }
+  ]
+}
